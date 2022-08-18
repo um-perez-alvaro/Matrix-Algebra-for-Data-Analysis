@@ -1,1 +1,1 @@
-# Matrix Tools for Data-Science
+# Matrix Tools for Data Science
