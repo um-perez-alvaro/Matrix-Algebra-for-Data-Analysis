@@ -6,7 +6,7 @@ This is the GitHub repository of the book *Matrix Tools for Data Science*
 
 ## Contents:
 
-- [Datasets]()
-- [Computational examples]()
+- [Datasets](https://github.com/um-perez-alvaro/Matrix-Tools-for-Data-Science/blob/main/datasets/README.md)
+- [Computational examples](https://github.com/um-perez-alvaro/Matrix-Tools-for-Data-Science/blob/main/examples/README.md)
 - [Computational exercises]()
-- [Projects]()
+- [Projects](https://github.com/um-perez-alvaro/Matrix-Tools-for-Data-Science/blob/main/projects/README.md)
