@@ -1,4 +1,4 @@
-# Matrix Tools for Data Science
+# Matrix Algebra for Data Analysis and Visualization
 
 
 This is the GitHub repository of the book *Matrix Algebra for Data Analysis and Visualization*
