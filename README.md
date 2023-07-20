@@ -1,8 +1,7 @@
 # Matrix Tools for Data Science
 
-<img src="images/UM_main_hall.png" height="350" width = "1000">
 
-This is the GitHub repository of the book *Matrix Tools for Data Science*
+This is the GitHub repository of the book *Matrix Algebra for Data Analysis and Visualization*
 
 ## Contents:
 
