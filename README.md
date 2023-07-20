@@ -5,7 +5,6 @@ This is the GitHub repository of the book *Matrix Algebra for Data Analysis and 
 
 ## Contents:
 
-- [Datasets](https://github.com/um-perez-alvaro/Matrix-Tools-for-Data-Science/blob/main/datasets/README.md)
 - [CHAPTER 1: {MACHINE LEARNING AND APPLICATIONS](https://github.com/um-perez-alvaro/Matrix-Tools-for-Data-Science/blob/main/examples/README.md)
 - [CHAPTER 2: MATRIX MULTIPLICATION AND PARTITIONED MATRICES](https://github.com/um-perez-alvaro/Matrix-Tools-for-Data-Science/blob/main/projects/README.md)
 - [CHAPTER 3: VECTOR NORMS, MATRIX NORMS, AND DISTANCES](https://github.com/um-perez-alvaro/Matrix-Tools-for-Data-Science/blob/main/projects/README.md)
@@ -19,3 +18,9 @@ This is the GitHub repository of the book *Matrix Algebra for Data Analysis and 
 - [CHAPTER 11: THE SINGULAR VALUE DECOMPOSITION]()
 - [CHAPTER 12: NONNEGATIVE MATRICES AND PERRON THEORY]()
 - [CHAPTER 13: NONNEGATIVE MATRIX FACTORIZATIONS]()
+
+## Datasets
+- [Datasets](https://github.com/um-perez-alvaro/Matrix-Tools-for-Data-Science/blob/main/datasets/README.md)
+
+## Projectes
+- [Projects]()
