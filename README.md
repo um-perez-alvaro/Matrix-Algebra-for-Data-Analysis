@@ -5,7 +5,7 @@ This is the GitHub repository of the book *Matrix Algebra for Data Analysis and 
 
 ## Contents:
 
-- [CHAPTER 1: MACHINE LEARNING AND APPLICATIONS](https://github.com/um-perez-alvaro/Matrix-Tools-for-Data-Science/blob/main/examples/README.md)
+- [CHAPTER 1: LINEAR ALGEBRA AND MACHINE LEARNING](https://github.com/um-perez-alvaro/Matrix-Tools-for-Data-Science/blob/main/examples/README.md)
 - [CHAPTER 2: MATRIX MULTIPLICATION AND PARTITIONED MATRICES](https://github.com/um-perez-alvaro/Matrix-Tools-for-Data-Science/blob/main/projects/README.md)
 - [CHAPTER 3: VECTOR NORMS, MATRIX NORMS, AND DISTANCES](https://github.com/um-perez-alvaro/Matrix-Tools-for-Data-Science/blob/main/projects/README.md)
 - [CHAPTER 4: THE FOUR FUNDAMENTAL SUBSPACES OF A MATRIX AND GRAM-MATRICES]()
