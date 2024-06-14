@@ -4,5 +4,6 @@
 ## Jupyter notebooks
 - [Introduction to programming in Python](https://nbviewer.org/github/um-perez-alvaro/Matrix-Algebra-for-Data-Analysis/blob/main/chapters/Chapter_1/1.%20Basics%20of%20%20Python%20.ipynb)
 - [Introduction to NumPy](https://nbviewer.org/github/um-perez-alvaro/Matrix-Algebra-for-Data-Analysis/blob/main/chapters/Chapter_1/2.%20NUMPY.ipynb)
-- [Introduction to Matplotlib]()
+- [Introduction to Matplotlib](https://github.com/um-perez-alvaro/Matrix-Algebra-for-Data-Analysis/blob/main/chapters/Chapter_1/Matplotlib.ipynb)
 - [Introduction to Pandas]()
+- [Data matrices]()
