@@ -6,4 +6,4 @@
 - [Introduction to NumPy](https://nbviewer.org/github/um-perez-alvaro/Matrix-Algebra-for-Data-Analysis/blob/main/chapters/Chapter_1/2.%20NUMPY.ipynb)
 - [Introduction to Matplotlib](https://nbviewer.org/github/um-perez-alvaro/Matrix-Algebra-for-Data-Analysis/blob/main/chapters/Chapter_1/Matplotlib.ipynb)
 - [Introduction to Pandas]()
-- [Data matrices]()
+- [Data matrices](https://nbviewer.org/github/um-perez-alvaro/Matrix-Algebra-for-Data-Analysis/blob/main/chapters/Chapter_1/Data%20matrices.ipynb)
