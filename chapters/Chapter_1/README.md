@@ -14,3 +14,5 @@ Filename | Description |  Source
 --- | --- |  --- 
 [Toy House Dataset](https://raw.githubusercontent.com/um-perez-alvaro/Matrix-Algebra-for-Data-Analysis/main/datasets/data/chapter%201/Toy_House_Dataset.csv) | The dataset contains information about 20 houses |
 [Tova the cat](https://raw.githubusercontent.com/um-perez-alvaro/Matrix-Algebra-for-Data-Analysis/main/datasets/data/chapter%201/Tova_the_cat.png) | A photo of the author's cat | 
+[Train Stop Edges](https://raw.githubusercontent.com/um-perez-alvaro/Matrix-Algebra-for-Data-Analysis/main/datasets/data/chapter%201/Train_Stop_Edges.csv) | This dataset represents the connections between train stops |
+[Train Stop Positions](https://raw.githubusercontent.com/um-perez-alvaro/Matrix-Algebra-for-Data-Analysis/main/datasets/data/chapter%201/Train_Stop_Positions.csv) | Geographical positions of the train stops |
