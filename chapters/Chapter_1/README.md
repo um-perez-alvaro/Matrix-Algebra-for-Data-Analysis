@@ -13,4 +13,4 @@
 Filename | Description |  Source
 --- | --- |  --- 
 [Toy House Dataset](https://raw.githubusercontent.com/um-perez-alvaro/Matrix-Algebra-for-Data-Analysis/main/datasets/data/chapter%201/Toy_House_Dataset.csv) | The dataset contains information about 20 houses |
-[Tova the cat](https://raw.githubusercontent.com/um-perez-alvaro/Matrix-Algebra-for-Data-Analysis/main/datasets/data/chapter%201/Tova_the_cat.csv) | A photo of the author's cat | 
+[Tova the cat](https://raw.githubusercontent.com/um-perez-alvaro/Matrix-Algebra-for-Data-Analysis/main/datasets/data/chapter%201/Tova_the_cat.png) | A photo of the author's cat | 
